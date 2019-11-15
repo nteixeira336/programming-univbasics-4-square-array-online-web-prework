@@ -5,3 +5,4 @@ while numbers[counter]do
   puts numbers[1**1]
   counter +=1
 end
+pp 
